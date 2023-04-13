@@ -1,6 +1,6 @@
 Line 1: Tru Squash 2
 
-Line 2: B
+Line 2: B some
 
 Line 3: C Implement feature
 
