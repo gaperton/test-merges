@@ -4,4 +4,4 @@ Line 2: B some
 
 Line 3: C Implement feature
 
-Line 4: Tru Squash 1
+Line 4: Tru Squash 12
