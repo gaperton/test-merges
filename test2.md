@@ -1,4 +1,4 @@
-Line 1: SQ
+Line 1: Tru Squash 2
 
 Line 2: B
 
